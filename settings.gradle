@@ -1,0 +1,1 @@
+include ':app', ':audio_device', ':rtc_base', ':third-party', ':libjingle_peerconnection'
